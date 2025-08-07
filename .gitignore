@@ -1,0 +1,13 @@
+data/*
+Notebooks/BND_lstm_model.pth
+Notebooks/SPY_lstm_model.pth
+Notebooks/TSLA_lstm_model.pth
+Notebooks/arima_model_BND.joblib
+Notebooks/arima_model_SPY.joblib
+Notebooks/arima_model_TSLA.joblib
+Notebooks/BND_scaler.pkl
+Notebooks/SPY_scaler.pkl
+Notebooks/TSLA_scaler.pkl
+Notebooks/sarima_model_BND.pkl
+Notebooks/sarima_model_SPY.pkl
+Notebooks/sarima_model_TSLA.pkl
