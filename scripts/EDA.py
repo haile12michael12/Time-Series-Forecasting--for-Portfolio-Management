@@ -6,8 +6,8 @@ import seaborn as sns
 from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
 
 # Define date range for analysis
-start_date = '2015-01-01'
-end_date = '2024-10-31'
+start_date = '2015-07-01'
+end_date = '2025-07-31'
 
 # Function to download and clean data for a given ticker
 def load_and_clean_data(ticker):
